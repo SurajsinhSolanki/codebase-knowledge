@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codebase Knowledge"
+  short_description: "Generate, update, validate, or visualize a structured knowledge/ folder that documents a codebase as an OKF-conformant bundle for humans, LLMs, and coding agents"
